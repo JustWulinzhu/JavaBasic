@@ -1,4 +1,4 @@
-package com.set.com;
+package www.set.com;
 
 import java.util.HashMap;
 

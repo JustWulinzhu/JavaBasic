@@ -1,4 +1,4 @@
-package com.wlfeng.demo;
+package www.wlfeng.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
