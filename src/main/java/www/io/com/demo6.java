@@ -1,7 +1,5 @@
 package www.io.com;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
